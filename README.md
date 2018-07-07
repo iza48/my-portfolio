@@ -19,5 +19,4 @@ I did the same with the css file.
 ## Deployments
 So far, no deployments has been done. The project is waiting for the evaluation.
 # Contributing
-Found a bug on my site? I suppose there is a problem with the responsiveness of the main image and the quality of the code. 
-I will be grateful for your honest opinion. I want to point out that I am just a novice developer:)
+Found a bug on my site? I will be grateful for your honest opinion. I want to point out that I am just a novice developer:)
