@@ -3,6 +3,12 @@ body {
      font-family: Lato, italic;
      font-weight: 70;
      padding: 3rem 0;
+     overflow-x: hidden;
+}
+
+.container {
+     max-width: 100%;
+     overflow-x: hidden;
 }
 
  .main_image {
